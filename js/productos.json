@@ -1,0 +1,125 @@
+[
+
+{
+"id": "accesorio-01", 
+"titulo": "Manguera Flex Para Jardín, 15mts", 
+"imagen": "img/Accesorios para jardín/01.jpg", 
+"categoria": {"nombre": "Accesorios para el jardin","id": "accesorios"},
+"precio": 7999
+},
+
+{
+"id": "accesorio-02", 
+"titulo": "Pala De Punta Metal Cabo de madera", 
+"imagen": "img/Accesorios para jardín/02.jpg", 
+"categoria": {"nombre": "Accesorios para el jardin","id": "accesorios"},
+"precio": 7600
+},
+
+{    
+"id": "accesorio-03", 
+"titulo": "Pala Ancha forjada Cabo Madera",    
+"imagen": "img/Accesorios para jardín/03.jpg", 
+"categoria": {"nombre": "Accesorios para el jardin","id": "accesorios"},
+"precio": 9899
+},
+
+{
+"id": "accesorio-04", 
+"titulo": "Maceta Soplada 12 Litros X 20 Unidades",
+"imagen": "img/Accesorios para jardín/04.jpg", 
+"categoria": {"nombre": "Accesorios para el jardin","id": "accesorios"},
+"precio": 3999
+},
+
+{
+"id": "accesorio-05", 
+"titulo": "Carretilla de chapa 90 Litros",
+"imagen": "img/Accesorios para jardín/05.jpg", 
+"categoria": {"nombre": "Accesorios para el jardin","id": "accesorios"},
+"precio": 11999
+},
+
+{
+"id": "aromatica-01", 
+"titulo": "Plantin de Lavanda", 
+"imagen": "img/Aromáticas/01.jpg", 
+"categoria": {"nombre": "Aromáticas","id": "aromaticas"},
+"precio": 7999
+},
+    
+{
+"id": "aromatica-02", 
+"titulo": "Romero", 
+"imagen": "img/Aromáticas/02.jpg", 
+"categoria": {"nombre": "Aromáticas","id": "aromaticas"},
+"precio": 7600
+},
+    
+{
+"id": "aromatica-03", 
+"titulo": "Orégano",    
+"imagen": "img/Aromáticas/03.jpg", 
+"categoria": {"nombre": "Aromáticas","id": "aromaticas"},
+"precio": 19.551
+},
+    
+{
+"id": "aromatica-04", 
+"titulo": "Menta piperita",
+"imagen": "img/Aromáticas/04.jpg", 
+"categoria": {"nombre": "Aromáticas","id": "aromaticas"},
+"precio": 3999
+},
+    
+{
+ "id": "aromatica-05", 
+ "titulo": "Salvia",
+ "imagen": "img/Aromáticas/05.jpg", 
+ "categoria": {"nombre": "Aromáticas","id": "aromaticas"},
+ "precio": 27.450
+},
+   
+{
+"id": "flor-01", 
+"titulo": "Hortensia", 
+"imagen": "img/Flores/01.jpg", 
+"categoria": {"nombre": "Flores","id": "flores"},
+"precio": 7490
+},
+
+{
+"id": "flor-02", 
+"titulo": "Margarita", 
+"imagen": "img/FLores/02.jpg", 
+"categoria": {"nombre": "Flores","id": "flores"},
+"precio": 7600
+},
+        
+{
+"id": "flor-03", 
+"titulo": "Narciso",    
+"imagen": "img/Flores/03.jpg", 
+"categoria": {"nombre": "Flores","id": "flores"},
+"precio": 5399
+},
+        
+{
+"id": "flora-04", 
+"titulo": "Tulipán",
+"imagen": "img/Flores/04.jpg", 
+"categoria": {"nombre": "Flores","id": "flores"},
+"precio": 3999
+},
+
+{
+"id": "flor-05", 
+"titulo": "Jacinto",
+"imagen": "img/FLores/05.jpg", 
+"categoria": {"nombre": "Flores","id": "flores"},
+"precio": 12300
+}
+
+
+
+]
